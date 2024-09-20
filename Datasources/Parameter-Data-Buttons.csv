@@ -1,0 +1,5 @@
+﻿Current Selection,Disable Highlight,Period Selector,Toggle,Toggle Attrition/Retention,Toggle Display,Dimension
+False,True,Week,True,False,False,1
+True,True,Month,False,True,True,2
+False,True,Quarter,,,,3
+False,True,Year,,,,4
